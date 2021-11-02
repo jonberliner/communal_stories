@@ -40,8 +40,8 @@ communal story telling repo.  currently a template/proof of concept, not actual 
 + allows for highly non-linear story telling, moving the idea of story telling from franchising to communal world-building
   + these worlds can have as many characters, side plots, politics, whatever as the community so pleases!
 
-## Structure
-\***note**: this is just a sketch of what factorizing/modularizing a story universe could look like
+## Example structure of a communal story universe repo
+\***note**: this is just a sketch of what factorizing/modularizing a story universe could look like.  Not necessarily needed for the general concept.
 + lore
   + characters
   + groups
@@ -60,8 +60,10 @@ communal story telling repo.  currently a template/proof of concept, not actual 
   + themes to hit
 
 ## Is this just writing with a partner?
-+ Nope!  This is more brain-storming and discussing with a bunch of partners.  Ultimately, the branch owner is responsible for writing the story via adding to the codebase themselves or through owning PRs
++ No - writing is very high effort and it wouldn't be reasonable to expect an average fan to go out of their way to write a chapter of a story that may never be added to anything
++ also not a law of averages - branch owners, not majority votes, ultimately decide what that branche's "cannon" is, and are responsible for the outward-facing product
 + people who don't want to do the work of organizing ideas into a coherent scene/story don't have to - they can just contribute and submit ideas through issues, same as people can request features from codebases without needing to write the code
++ This is more brain-storming and discussing with a bunch of partners.  Ultimately, the branch owner is responsible for writing the story via adding to the codebase themselves or through owning PRs
 
 
 ## TODO:
