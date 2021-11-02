@@ -13,6 +13,7 @@ communal story telling repo.  currently a template/proof of concept, not actual 
   + not because bad people, but because creating a tight world is *hard*
 + inspo from the gaming modding + patching culture
   + a story can be fixed, but the modding + patching (expanding and editing of the story universe) can grow and continue on indefinitely
++ I like to create worlds and spitball stories on the fly with others.  I don't need a cut and dry novel - I'm perfectly happy to tell small stories and create worlds and scenes with other people.  Especially pushing each other point-counterpoint on how real people would navigate worlds we're making up as we go along.  Much more akin to oral traditions and cultural myths than novels.
 
 ## What
 + the internet crowd sources fan theories, alternate endings, proposed lore/world building/character building often *after* a section of a story comes out
@@ -61,3 +62,8 @@ communal story telling repo.  currently a template/proof of concept, not actual 
 ## Is this just writing with a partner?
 + Nope!  This is more brain-storming and discussing with a bunch of partners.  Ultimately, the branch owner is responsible for writing the story via adding to the codebase themselves or through owning PRs
 + people who don't want to do the work of organizing ideas into a coherent scene/story don't have to - they can just contribute and submit ideas through issues, same as people can request features from codebases without needing to write the code
+
+
+## TODO:
++ plan for how to release initial story
+  + story?  just lore boards/snippets?
