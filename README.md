@@ -57,3 +57,7 @@ communal story telling repo.  currently a template/proof of concept, not actual 
   + scene ideas
   + quotes you want to get to
   + themes to hit
+
+## Is this just writing with a partner?
++ Nope!  This is more brain-storming and discussing with a bunch of partners.  Ultimately, the branch owner is responsible for writing the story via adding to the codebase themselves or through owning PRs
++ people who don't want to do the work of organizing ideas into a coherent scene/story don't have to - they can just contribute and submit ideas through issues, same as people can request features from codebases without needing to write the code
